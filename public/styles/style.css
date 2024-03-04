@@ -19,6 +19,14 @@ header {
     box-shadow: rgb(63, 63, 63) 0 10px 10px;
 }
 
+footer {
+    position: fixed;
+    bottom: 5px;
+    color: rgba(54, 54, 54, 0.651);
+    width: 100%;
+    text-align: center;
+}
+
 h1 {
     display: inline;
 }
